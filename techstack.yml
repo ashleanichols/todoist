@@ -1,7 +1,8 @@
 repo_name: ashleanichols/todoist
 report_id: 121d137844a86cb05a31f0adc9bd427d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:54:18+00:00'
+timestamp: '2024-01-04T15:07:23+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashleanichols/todoist
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -27,7 +29,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -40,6 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/package.json
   detection_source: package.json
   last_updated_by: karl
   last_updated_on: 2019-07-05 08:15:41.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/package.json
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -64,7 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/package.json
   detection_source: package.json
   last_updated_by: karl
   last_updated_on: 2019-07-05 08:15:41.000000000 Z
@@ -88,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/todoist
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -99,7 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -111,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: karl
   last_updated_on: 2019-07-05 08:15:41.000000000 Z
@@ -122,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/package.json
   detection_source: package.json
   last_updated_by: karl
   last_updated_on: 2019-07-05 08:15:41.000000000 Z
@@ -136,7 +144,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -149,6 +157,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ashleanichols/todoist
   detection_source: Repo Metadata
 - name: "@testing-library/react"
   description: Simple and complete React DOM testing utilities that encourage good
@@ -161,7 +170,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -175,7 +184,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -189,7 +198,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -203,7 +212,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -217,7 +226,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -231,7 +240,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -245,7 +254,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -259,7 +268,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -273,7 +282,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -287,7 +296,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -314,7 +323,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -335,7 +344,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Matseshe
   last_updated_on: 2019-08-31 18:26:16.000000000 Z
@@ -349,7 +358,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -363,7 +372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
@@ -377,7 +386,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/ashleanichols/todoist/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Lucas Shaffer
   last_updated_on: 2020-06-19 01:03:10.000000000 Z
